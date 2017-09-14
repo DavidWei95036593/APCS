@@ -1,11 +1,14 @@
 
 public class Conjunction extends LogicalSentence {
-
-//	public Conjunction(PropositionConstant a) {
-//		super(a);
-//	}
-
-	public Conjunction(LogicalSentence l3, Negation negation) {
+	private LogicalSentence l5;
+	private LogicalSentence right;
+	private LogicalSentence left;
+	
+public Conjunction(LogicalSentence l3, Negation negation) {
+	
 	}
-
+public void LogicalSentence(LogicalSentence r, LogicalSentence l) {
+	this.right = right;
+	this.left = left;
+	}
 }
