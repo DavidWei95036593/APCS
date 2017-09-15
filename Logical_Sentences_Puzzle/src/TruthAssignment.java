@@ -1,11 +1,11 @@
 import java.util.ArrayList;
 
-private ArrayList <PropositionConstantArray> pca;
-private ArrayList <BooleanArray> ba;
+ 
+//  ArrayList <BooleanArray> ba;
 
 public class TruthAssignment {
-	PropositionConstantArray = new ArrayList();
-	BooleanArray = new ArrayList();
+//	PropositionConstantArray = new ArrayList();
+//	BooleanArray = new ArrayList();
 	private PropositionConstant a;
 	
 	
@@ -17,6 +17,6 @@ public class TruthAssignment {
 		b = a;
 				}
 			}
-		}
+//		}
 	}
-}
+//}
