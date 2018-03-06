@@ -1,0 +1,29 @@
+Introduction:
+The purpose of this homework was to implement the coding bat problems in setstuff
+into java files
+Specification:
+My submission meets all the requierments, and the codes are working in coding bat.
+
+Errors
+I had serval errors while doing this in codingbat, but I manage to fix them and now they were all
+working
+
+Overview of Code
+See comments in each class, the main class was a class to test them
+see comments in main class to know which method it is tested on.
+Each class was made into its own file
+
+Major Challenges
+the most fun part was the nearestUnvisitedNodes, but I pay attention in class and
+made some notes so I was able to do it by myself
+
+Acknowledgements
+I'd like to thank to Hunter North and Jack Zhang for helping me on this project,
+I had some problem of understanding the question in collectNodes, I thought it should 
+return the new array with only the repeated values
+But Jack pointed to me that it should return the union of the first two
+After that I still compared my code to hunters because I was using if for many cases that
+made my cod messy and I was unable to find the error
+Hunter says he just used a for loop to performe both cases for(i=0 ;i<2; i++) instead of 
+rewrite the whole section of codes again.
+I follow his idea and my cod works
